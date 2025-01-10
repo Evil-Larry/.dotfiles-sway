@@ -8,10 +8,10 @@ live_config_reload: true
 
 font:
   normal:
-    family: "Iosevka"
+    family: "SourceCodePro Medium"
     style: Regular
 
-  size: 10
+  size: 14
 
 
 colors:
