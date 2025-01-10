@@ -14,8 +14,8 @@
   "editor.linkedEditing": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
 
-  "terminal.integrated.fontSize": 12,
-  "terminal.integrated.fontFamily": "Iosevka Extended",
+  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontFamily": "SourceCodePro Medium",
   "terminal.integrated.profiles.linux": {
     "zsh": {
       "path": "zsh"
